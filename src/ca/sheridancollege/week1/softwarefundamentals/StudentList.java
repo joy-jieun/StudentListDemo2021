@@ -4,7 +4,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * This class creates an array of Student Object
  * and prints out their names
  *
- * @author Joy Jung 2021
+ * @author Joy Jieun Jung 2021
  */
 public class StudentList
 {

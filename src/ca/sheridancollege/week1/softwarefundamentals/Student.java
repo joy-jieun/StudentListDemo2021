@@ -3,7 +3,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * This class models Students. Student have a name and
  * a studentID.
  *
- * @author Jieun Jung 2021
+ * @author Joy Jieun Jung 2021
  */
 public class Student
 {
